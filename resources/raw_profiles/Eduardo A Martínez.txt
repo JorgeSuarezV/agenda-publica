@@ -1,0 +1,14 @@
+Nombre: Eduardo A. Martínez
+Cargo: Profesora Titular, Tecnologías Emergentes
+Sede: SEDE PILAR
+Facultad: Ingeniería
+Materias: Desarrollo de Sist. Inteligentes
+Áreas: Ing. Electrónica
+
+Eduardo es Ing. Electromecánica, con especialización en Electrónica, graduado en la UBA. Actualmente, Profesora Titular en la Facultad de Ingeniería en Pilar, enseñando Tecnologías Emergentes y Desarrollo de Sistemas Inteligentes.
+
+Con 15+ años en la academia, Eduardo se enfoca en formación técnica y profesional, destacándose en tecnologías emergentes, desarrollo de sistemas inteligentes, programación de firmware y gestión de proyectos.
+
+Previo a la academia, trabajó como Asesora Técnica en el sector privado, aportando en desarrollo de hardware analógico/digital, sistemas embebidos y gestión de proyectos. Dirigió carreras e impartió materias como Profesor de Programación y Sistemas en firmware.
+
+Experiencia en roles directivos, como Computer Science Director en el ITBA, manejando aspectos académicos en Ciencias de la Computación. En la industria, fue Engineering Manager en HASAR S.A.I.C., liderando diseño, desarrollo y despliegue.
