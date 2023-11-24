@@ -1,0 +1,37 @@
+El futuro de los sistemas operativos: Windows y la integración de la IA en la experiencia de usuario.
+
+
+perfil profesional:
+Nombre: Eduardo A. Martínez
+Cargo: Profesora Titular, Tecnologías Emergentes
+Sede: SEDE PILAR
+Facultad: Ingeniería
+Materias: Desarrollo de Sist. Inteligentes
+Áreas: Ing. Electrónica
+
+Eduardo es Ing. Electromecánica, con especialización en Electrónica, graduado en la UBA. Actualmente, Profesora Titular en la Facultad de Ingeniería en Pilar, enseñando Tecnologías Emergentes y Desarrollo de Sistemas Inteligentes.
+
+Con 15+ años en la academia, Eduardo se enfoca en formación técnica y profesional, destacándose en tecnologías emergentes, desarrollo de sistemas inteligentes, programación de firmware y gestión de proyectos.
+
+Previo a la academia, trabajó como Asesora Técnica en el sector privado, aportando en desarrollo de hardware analógico/digital, sistemas embebidos y gestión de proyectos. Dirigió carreras e impartió materias como Profesor de Programación y Sistemas en firmware.
+
+Experiencia en roles directivos, como Computer Science Director en el ITBA, manejando aspectos académicos en Ciencias de la Computación. En la industria, fue Engineering Manager en HASAR S.A.I.C., liderando diseño, desarrollo y despliegue.
+
+
+articulo:
+Copilot, el asistente de Microsoft basado en ChatGPT, llegará también a Windows 10
+
+Microsoft ha anunciado que su asistente impulsado por Inteligencia Artificial (IA), Copilot, también ha llegado a la versión de Windows 10 con una reciente actualización del sistema, meses después de haber aterrizado en Windows 11.
+
+Copilot ya forma parte de diferentes servicios de la compañía y llegó a la última versión del sistema operativo que desarrolla la compañía con la actualización 23H2 el pasado mes de septiembre, tras varias versiones preliminares para probadores.
+Así se ve Copilot en Windows 11
+Copilot en Windows 11
+
+Microsoft ha comentado ahora en su blog que ya está disponible para su descarga Windows 10 22H2 Build 19045.3757 (KB5032278) para usuarios del canal Insider, una actualización que implementa Copilot en versión preliminar para las versiones de Windows 10 Home y Pro.
+
+La compañía ha comentado que Copilot llegará de manera gradual mediante la implementación controlada de funciones (CFR) durante los próximos meses y ha advertido que es posible que algunos dispositivos tarden “un tiempo” en figurar como elegibles para el asistente.
+
+También ha aclarado que el botón Copilot en Windows aparecerá en el lado derecho de la barra de tareas de Windows 10 y no se superpondrá con el contenido del escritorio ni bloqueará las ventanas de las aplicaciones que estén abiertas.
+
+Con ello, ha dicho que los equipos con esta versión del sistema operativo que pertenezcan a organizaciones no dispondrán de Copilot inicialmente, como tampoco lo harán aquellos que cuenten con Windows 10 Enterprise y Education.
+

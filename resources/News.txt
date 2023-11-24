@@ -112,3 +112,22 @@ Como respuesta a esto, los hoteles Hyatt Centric y el Regency, de Montevideo, el
 
 En relación con las cancelaciones en el hospedaje, señaló: “Me mandan a dormir al establo. Es tan estúpido. Es una locura que la gente en la Argentina acepte este sinsentido del Faena y el Four Seasons y cómo se llamen los otros hoteles. Deberían pensar un poco más y comportarse como adultos”.
 Lo cierto es que no se sabe donde está hospedado y desde la organización dijeron que esa información no la darán, como así tampoco la de su llegada al país y si hará o no prueba de sonido.
+
+
+la nación
+Copilot, el asistente de Microsoft basado en ChatGPT, llegará también a Windows 10
+
+Microsoft ha anunciado que su asistente impulsado por Inteligencia Artificial (IA), Copilot, también ha llegado a la versión de Windows 10 con una reciente actualización del sistema, meses después de haber aterrizado en Windows 11.
+
+Copilot ya forma parte de diferentes servicios de la compañía y llegó a la última versión del sistema operativo que desarrolla la compañía con la actualización 23H2 el pasado mes de septiembre, tras varias versiones preliminares para probadores.
+Así se ve Copilot en Windows 11
+Copilot en Windows 11
+
+Microsoft ha comentado ahora en su blog que ya está disponible para su descarga Windows 10 22H2 Build 19045.3757 (KB5032278) para usuarios del canal Insider, una actualización que implementa Copilot en versión preliminar para las versiones de Windows 10 Home y Pro.
+
+La compañía ha comentado que Copilot llegará de manera gradual mediante la implementación controlada de funciones (CFR) durante los próximos meses y ha advertido que es posible que algunos dispositivos tarden “un tiempo” en figurar como elegibles para el asistente.
+
+También ha aclarado que el botón Copilot en Windows aparecerá en el lado derecho de la barra de tareas de Windows 10 y no se superpondrá con el contenido del escritorio ni bloqueará las ventanas de las aplicaciones que estén abiertas.
+
+Con ello, ha dicho que los equipos con esta versión del sistema operativo que pertenezcan a organizaciones no dispondrán de Copilot inicialmente, como tampoco lo harán aquellos que cuenten con Windows 10 Enterprise y Education.
+
